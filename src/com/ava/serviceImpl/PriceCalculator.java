@@ -13,7 +13,7 @@ public class PriceCalculator {
 
         // check if dynamicPrice is enable and calucute the final
         //DynamicPrice dynamicPrice;
-        dynamicPrice.getBasePrice *
+//        dynamicPrice.getBasePrice *
 
 
         return finalPrice;

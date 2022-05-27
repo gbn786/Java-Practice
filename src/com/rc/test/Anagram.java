@@ -10,15 +10,7 @@ import java.util.Map;
  */
 public class Anagram {
 
-    public static void main(String[] args) {
-        String input1 = "listen";
-        String input2 = "silennt";
-        boolean isAnagram = checkAnagram(input1, input2);
-        System.out.println(isAnagram == true ? "Anagram" : "Not");
-
-    }
-
-    private static boolean checkAnagram(String input1, String input2) {
+    public boolean checkAnagram(String input1, String input2) {
         if (input1.length() != input2.length()) {
             return false;
         }
