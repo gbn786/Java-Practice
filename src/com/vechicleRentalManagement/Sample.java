@@ -1,4 +1,4 @@
-package com.ava.model;
+package com.vechicleRentalManagement;
 
 /**
  * LLD : Vehicle rental application
@@ -6,13 +6,12 @@ package com.ava.model;
  * There are different types of vehicles supported by the system.
  * Admins can add/remove vehicles.
  * Pricing based on different parameters.
+ *
+ *
+ *
+ *
  */
-public class User {
-    int id;
-    String name;
-    String address;
-    UserStatus userStatus;// Approved, NotApproved;
-    String dlInfo;
-    String comment;
 
+
+public class Sample {
 }

@@ -1,6 +1,5 @@
-package com.ava.model;
+package com.vechicleRentalManagement.constants;
 
 public enum VechicleType {
-    ////HatchBag, Sedan, SUV
     HATCHBAG, SEDAN, SUV, LUXURY;
 }

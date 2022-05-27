@@ -1,6 +1,6 @@
-package com.ava.service;
+package com.vechicleRentalManagement.service;
 
-import com.ava.model.Vechicle;
+import com.vechicleRentalManagement.model.Vechicle;
 
 public interface VechicleManagement {
     public Vechicle addVechicle(Vechicle vechicle) throws Exception;

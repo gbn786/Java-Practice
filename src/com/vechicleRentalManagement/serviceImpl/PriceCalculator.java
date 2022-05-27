@@ -1,7 +1,6 @@
-package com.ava.serviceImpl;
+package com.vechicleRentalManagement.serviceImpl;
 
-import com.ava.model.DynamicPrice;
-import com.ava.model.Vechicle;
+import com.vechicleRentalManagement.model.Vechicle;
 
 public class PriceCalculator {
 

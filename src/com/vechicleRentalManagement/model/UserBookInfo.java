@@ -1,4 +1,6 @@
-package com.ava.model;
+package com.vechicleRentalManagement.model;
+
+import com.vechicleRentalManagement.constants.ReservationStatus;
 
 import java.util.Date;
 
@@ -8,6 +10,5 @@ public class UserBookInfo {
     Date startdate;
     Date returnDate;
     Date expectedRetrunDate;
-    BookingStatus bookingStatus;// Return
-
+    ReservationStatus reservationStatus;
 }

@@ -1,4 +1,5 @@
-//package com.w.test;
+package com.w.test;
+
 //
 ///**
 // * QUE: Given the root of a binary search tree, and an integer k,
@@ -48,65 +49,30 @@
 //
 //
 //
-//public class Test {
+public class Test {
+
+//    private insert O(1)
 //
-//    private
+//    delete O(1)
 //
-//}
+//    find O(1) // perticular value
 //
+//    return_any O(1) // random value
 //
+//    a,b,c,d
 //
-//
-//
-//
-//insert O(1)
-//delete O(1)
-//find   O(1) // perticular value
-//return_any O(1) // random value
-//
-//a,b,c,d
-//
-//1,a
-//2,b
-//3,a
-//4,d
+//        1,a
+//        2,b
+//        3,a
+//        4,d
 //
 //
-//        a->1,b->2
-//   return_any()
+//    a->1,b->2
+//
+//    return_any()
+//
 //    //similar random within range
-//        here range is 1-3
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+//    here range
+//    is 1-3
+
+}

@@ -1,7 +1,7 @@
-package com.ava.service;
+package com.vechicleRentalManagement.service;
 
-import com.ava.model.User;
-import com.ava.model.Vechicle;
+import com.vechicleRentalManagement.model.User;
+import com.vechicleRentalManagement.model.Vechicle;
 
 public interface Booking {
 

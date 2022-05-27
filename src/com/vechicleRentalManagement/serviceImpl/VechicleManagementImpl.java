@@ -1,7 +1,7 @@
-package com.ava.serviceImpl;
+package com.vechicleRentalManagement.serviceImpl;
 
-import com.ava.model.Vechicle;
-import com.ava.service.VechicleManagement;
+import com.vechicleRentalManagement.model.Vechicle;
+import com.vechicleRentalManagement.service.VechicleManagement;
 
 public class VechicleManagementImpl implements VechicleManagement {
 
